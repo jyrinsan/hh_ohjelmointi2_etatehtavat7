@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.json.JSONObject;
 
-import dao.AsiakkaatDao;
+import model.dao.AsiakkaatDao;
 import model.Asiakas;
 
 @WebServlet("/asiakkaat/*")
